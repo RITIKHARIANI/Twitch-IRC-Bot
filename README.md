@@ -1,2 +1,2 @@
 # Twitch-IRC-Bot
-Read the ircbot.pdf
+Read the ircchatbot.pdf
